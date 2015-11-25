@@ -1,0 +1,31 @@
+{
+  "name": "minnow",
+  "version": "0.0.1",
+  "description": "web app for sorting out truth from not",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^1.1.2",
+    "koa-mount": "^1.3.0",
+    "koa-router": "^5.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpxxdp/minnow.git"
+  },
+  "keywords": [
+    "koa",
+    "app",
+    "logic",
+    "truth"
+  ],
+  "author": "Daniel Patrick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpxxdp/minnow/issues"
+  },
+  "homepage": "https://github.com/dpxxdp/minnow#readme"
+}
